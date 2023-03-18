@@ -114,4 +114,4 @@ Something interesting [^note1]
 
 ### Escaping Characters
 
-to eascape a character put a backslash in front of it like this: \#
+to escape a character put a backslash in front of it like this: \#
